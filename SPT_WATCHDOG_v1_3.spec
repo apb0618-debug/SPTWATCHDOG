@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['SPT_WATCHDOG_patched_v10.py'],
+    ['SPT_WATCHDOG_patched_v11.py'],
     pathex=[],
     binaries=[],
     datas=[('watchdog.ico', '.'), ('watchdog.png', '.')],
